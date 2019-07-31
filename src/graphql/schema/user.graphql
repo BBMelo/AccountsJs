@@ -1,0 +1,6 @@
+type User {
+  uid:ID
+  name:String 
+  email:String
+  password: String  
+}

@@ -1,0 +1,6 @@
+type Mutation {
+    register(
+        name:String
+        email:String
+        password:String ) : User
+}
